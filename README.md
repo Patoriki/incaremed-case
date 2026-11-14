@@ -38,16 +38,17 @@ Criei a ideia de uma extensão que acompanha o profissional da ponta enquanto el
 - Desenvolvimento do **front-end** em Angular
 - **Participação no back-end** (.NET/C#), maior do que nos outros sistemas da empresa
 - Implementação de **acessibilidade** no app do paciente: ajuste do tamanho da letra, leitor de tela, VLibras, navegação pelo teclado, entre outros
-  <!-- ajuste esta lista para o que já está pronto -->
+
 
 ## Tecnologias
 **Front-end:** Angular · TypeScript · Bootstrap · Font Awesome · SweetAlert2
 **Back-end:** C# · .NET · SQL Server
 **Extensão:** JavaScript · HTML · CSS
-<!-- confira a stack da extensão -->
+
 
 ## Telas
-<!-- prints com dados fictícios na pasta /prints, por exemplo:
-![Prontuário](prints/prontuario.png)
-![Extensão](prints/extensao.png)
--->
+![Prontuário](prints/01-prontuario.png)
+![Extensão](prints/02-extensao.png)
+![Chat](prints/03-chat.png)
+![Responsividade](prints/04-responsividade.png)
+![Acessibilidade](prints/05-acessibilidade.png)
