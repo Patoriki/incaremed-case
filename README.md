@@ -47,8 +47,8 @@ Criei a ideia de uma extensão que acompanha o profissional da ponta enquanto el
 
 
 ## Telas
-![Prontuário](prints/01-prontuario.png)
-![Extensão](prints/02-extensao.png)
-![Chat](prints/03-chat.png)
-![Responsividade](prints/04-responsividade.png)
-![Acessibilidade](prints/05-acessibilidade.png)
+![Prontuário](prints/01-prontuario.jpg)
+![Extensão](prints/02-extensao.jpg)
+![Chat](prints/03-chat.jpg)
+![Responsividade](prints/04-responsividade.jpg)
+![Acessibilidade](prints/05-acessibilidade.jpg)
